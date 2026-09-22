@@ -2,7 +2,8 @@
 
 > **每张 $0.0206**，按量计费，最低 1 美元起充。同一个 OpenAI 兼容接口，`https://api.apimart.ai/v1`。
 
-**[查看 Qwen-Image 3.0 模型页](https://go.apimart.ai/k-13093e)** · **[实时价格](https://go.apimart.ai/k-720632)** · **[获取 API Key](https://go.apimart.ai/k-4ba7e0)**
+<p align="center"><img src="assets/01-preview.jpg" width="820" alt="Qwen-Image 3.0 sample output"></p>
+**[查看 Qwen-Image 3.0 模型页](https://apimart.ai/zh/model/qwen-image-3-0)** · **[实时价格](https://apimart.ai/zh/pricing)** · **[获取 API Key](https://apimart.ai/zh/keys)**
 
 中英双语提示词表现稳定，1K 与 2K 一个价，长提示词不容易丢细节。
 
@@ -20,6 +21,14 @@
 | `model` | `qwen-image-3.0` |
 | endpoint | `POST https://api.apimart.ai/v1/images/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 真实调用样例（下表每条都是实际跑出来的结果）
+
+| sample | 花费 | prompt |
+| --- | --- | --- |
+| <img src="assets/01-preview.jpg" width="260"> | $0.0206 | `清晨的极简工作室，一杯手冲咖啡放在石台上，柔和窗光，85mm 镜头质感` |
+| <img src="assets/02-preview.jpg" width="260"> | $0.0206 | `雨夜霓虹街道，湿沥青反光，骑车人撑伞经过，电影感 35mm 胶片` |
 
 ## 实测价格
 

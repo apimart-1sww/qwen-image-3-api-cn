@@ -1,0 +1,27 @@
+{
+  "model": "qwen-image-3.0",
+  "samples": [
+    {
+      "repo": "qwen-image-3-api-cn",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.jpg",
+      "bytes": 904466,
+      "cost": 0.020572,
+      "prompt": "清晨的极简工作室，一杯手冲咖啡放在石台上，柔和窗光，85mm 镜头质感",
+      "lang": "zh"
+    },
+    {
+      "repo": "qwen-image-3-api-cn",
+      "slug": "02-preview",
+      "ok": true,
+      "file": "02-preview.jpg",
+      "bytes": 1513445,
+      "cost": 0.020572,
+      "prompt": "雨夜霓虹街道，湿沥青反光，骑车人撑伞经过，电影感 35mm 胶片",
+      "lang": "zh"
+    }
+  ],
+  "cost_usd": 0.0411,
+  "generated_at": "2026-09-21"
+}
