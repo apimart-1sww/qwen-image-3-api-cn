@@ -3,7 +3,7 @@
 > **每张 $0.0206**，按量计费，最低 1 美元起充。同一个 OpenAI 兼容接口，`https://api.apimart.ai/v1`。
 
 <p align="center"><img src="assets/01-preview.jpg" width="820" alt="Qwen-Image 3.0 sample output"></p>
-**[查看 Qwen-Image 3.0 模型页](https://apimart.ai/zh/model/qwen-image-3-0)** · **[实时价格](https://apimart.ai/zh/pricing)** · **[获取 API Key](https://apimart.ai/zh/keys)**
+**[查看 Qwen-Image 3.0 模型页](https://go.apimart.ai/k-13093e)** · **[实时价格](https://go.apimart.ai/k-720632)** · **[获取 API Key](https://go.apimart.ai/k-4ba7e0)**
 
 中英双语提示词表现稳定，1K 与 2K 一个价，长提示词不容易丢细节。
 
